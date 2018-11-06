@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lianne Schroeder / Site Title"
+title                    : "Lianne Schroeder"
 title_separator          : "-"
 name                     : &name "Lianne Schroeder"
-description              : &description "Chemistry Lecturer, ChemEd Research"
+description              : &description ""
 url                      : https://LianneSchroeder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lianneschroeder.github.io"
